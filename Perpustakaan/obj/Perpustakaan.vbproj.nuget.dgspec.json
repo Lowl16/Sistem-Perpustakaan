@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\\Perpustakaan\\Perpustakaan.vbproj": {}
+    "C:\\Users\\PC\\source\\repos\\sistem_perpustakaan\\Perpustakaan\\Perpustakaan.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\\Perpustakaan\\Perpustakaan.vbproj": {
+    "C:\\Users\\PC\\source\\repos\\sistem_perpustakaan\\Perpustakaan\\Perpustakaan.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\\Perpustakaan\\Perpustakaan.vbproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\sistem_perpustakaan\\Perpustakaan\\Perpustakaan.vbproj",
         "projectName": "Perpustakaan",
-        "projectPath": "C:\\Users\\PC\\Documents\\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\\Perpustakaan\\Perpustakaan.vbproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\sistem_perpustakaan\\Perpustakaan\\Perpustakaan.vbproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\Vis_Tugas8_2107411007_Sandhi Karunia Sugihartana (2)\\Perpustakaan\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\sistem_perpustakaan\\Perpustakaan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -73,7 +73,7 @@ Partial Class Login
         'TxtPassword
         '
         Me.TxtPassword.Font = New System.Drawing.Font("Segoe UI", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.TxtPassword.Location = New System.Drawing.Point(220, 179)
+        Me.TxtPassword.Location = New System.Drawing.Point(115, 81)
         Me.TxtPassword.Name = "TxtPassword"
         Me.TxtPassword.Size = New System.Drawing.Size(469, 39)
         Me.TxtPassword.TabIndex = 4
